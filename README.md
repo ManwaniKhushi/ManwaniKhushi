@@ -41,6 +41,7 @@ Projects, experiments, learning milestones, and a few things that started with:
 I'm always open to **learning, collaborating, and building cool things together.**
 
 **LinkedIn:** www.linkedin.com/in/manwanikhushi
+
 **Email:** manvanikhushi9@gmail.com
 
 ---
