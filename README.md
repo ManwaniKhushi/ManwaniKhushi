@@ -23,7 +23,9 @@ I believe the best way to learn technology is to actually build something with i
 ### 🏆 A Little About Me
 
 🎓 **BCA @ Charusat University**
+
 🏅 **NPTEL Cloud Computing — Gold | Top 2%**
+
 🚀 Currently learning, experimenting, and building projects
 
 ---
@@ -39,6 +41,7 @@ Projects, experiments, learning milestones, and a few things that started with:
 I'm always open to **learning, collaborating, and building cool things together.**
 
 **LinkedIn:** linkedin.com/in/manwanikhushi
+
 **Email:** manvanikhushi9@gmail.com
 
 ---
